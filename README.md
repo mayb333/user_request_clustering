@@ -12,4 +12,4 @@ This project uses BERTopic to create a streamlined pipeline for text processing 
 5. **Topic Representation**: Creates a topic representation using ClassTfidfTransformer.
 
 ## Dataset
-This dataset includes inquiries from 400 unique users to a chatbot
+This dataset includes inquiries from 400 unique sessions in a chatbot.
